@@ -1,2 +1,3 @@
 *.kra linguist-detectable=true
+*.svg linguist-detectable=true
 *.kra linguist-language=Krita
